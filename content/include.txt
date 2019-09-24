@@ -1,0 +1,24 @@
+<!--
+Title: I have been coerced to include this
+Date: 2019-09-23
+Category: Documentation
+Slug: willing-this-to-work
+-->
+
+# A header, for no real reason
+
+This is some content that I'd like to include in some other files:
+
+![alt-text]({filename}img/test-image.jpg)
+
+Let's see if code works:
+
+```python
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+```
